@@ -1,2 +1,0 @@
-(window["webpackJsonpalecmasterson.github.com"]=window["webpackJsonpalecmasterson.github.com"]||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var o=t(0),r=t.n(o),a=t(2);var c=function(){return r.a.createElement("p",null,"hello")};t.n(a).a.render(r.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.05f630cd.chunk.js.map
