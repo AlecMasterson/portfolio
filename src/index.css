@@ -1,0 +1,12 @@
+.body {
+    background-color: #CCCCCC;
+    min-height: 100vh;
+}
+
+nav {
+    background-color: #436CBB;
+}
+
+.nav-item {
+    cursor: pointer;
+}
