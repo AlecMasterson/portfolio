@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,MACI,qBAAyB,CACzB,gBACJ,CAEA,IACI,wBACJ,CAEA,UACI,cACJ","file":"main.9ee228d6.chunk.css","sourcesContent":[".body {\n    background-color: #CCCCCC;\n    min-height: 100vh;\n}\n\nnav {\n    background-color: #436CBB;\n}\n\n.nav-item {\n    cursor: pointer;\n}"]}
